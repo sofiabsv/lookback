@@ -1,0 +1,29 @@
+.carousel-item {
+  height: 65vh;
+}
+.carousel-item img {
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+}
+
+.carousel {
+  margin: 5rem;
+}
+
+.heading {
+  margin-top: 5rem;
+}
+
+.heading a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.main {
+  font-size: 3ch;
+}
+
+.top-margin5 {
+  margin-top: 5rem;
+}
