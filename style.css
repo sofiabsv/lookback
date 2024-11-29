@@ -114,3 +114,8 @@ a {
   width: 100%;
   margin: 0 auto;
 }
+
+.source {
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+}
