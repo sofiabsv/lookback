@@ -38,7 +38,7 @@
 
 .fixed-size {
   height: 400px;
-
+  width: 100%;
   object-fit: cover;
 }
 
@@ -80,8 +80,6 @@ footer {
 
 .art-inspo p {
   font-size: 17px;
-  width: 400px;
-  margin-left: 150px;
 }
 
 .st-link a {
@@ -104,4 +102,9 @@ footer {
 
 a {
   text-decoration: none !important;
+}
+
+#carouselExample { 
+  width: 100%;
+  margin: 0 auto;
 }
