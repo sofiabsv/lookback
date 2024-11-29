@@ -21,10 +21,76 @@
 }
 
 .main {
-  font-size: 3ch;
+  font-size: 18px;
 }
 
 .top-margin5 {
   margin-top: 5rem;
 }
 
+.cards {
+  font-size: 17px;
+}
+
+.accordion {
+  font-size: 17px;
+}
+
+.fixed-size {
+  height: 400px;
+  
+  object-fit: cover;
+}
+
+.col img {
+  border-radius: 5px;
+}
+
+.works p {
+  font-size: 18px;
+  width: 400px;
+  margin: 0 auto;
+}
+
+.works a {
+  text-decoration: none;
+  color: rgb(168, 87, 87);
+  font-size: 17px;
+
+}
+
+.works a:hover {
+  color: rgb(129, 45, 45);
+}
+
+.plot img {
+  height: 300px;
+}
+
+.plot .col {
+  padding: 0; /* Remove padding from columns */
+}
+
+.plot p {
+  font-size: 17px;
+}
+
+footer {
+  font-size: 17px;
+}
+
+.art-inspo p {
+  font-size: 17px;
+  width: 400px;
+  margin-left: 150px;
+}
+
+.st-link a {
+  text-decoration: none;
+  color: rgb(168, 87, 87);
+  font-size: 20px;
+}
+
+.st-link a:hover {
+  color: rgb(129, 45, 45);
+}
