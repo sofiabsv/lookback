@@ -52,13 +52,13 @@
   margin: 0 auto;
 }
 
-.works a {
+.more {
   text-decoration: none;
   color: rgb(168, 87, 87);
   font-size: 17px;
 }
 
-.works a:hover {
+.more:hover {
   color: rgb(129, 45, 45);
 }
 
@@ -67,7 +67,7 @@
 }
 
 .plot .col {
-  padding: 0; /* Remove padding from columns */
+  padding: 0;
 }
 
 .plot p {
@@ -92,4 +92,16 @@ footer {
 
 .st-link a:hover {
   color: rgb(129, 45, 45);
+}
+
+.prozess p {
+  font-size: 17px;
+}
+
+.heading h1:hover {
+  color: rgb(129, 45, 45);
+}
+
+a {
+  text-decoration: none !important;
 }
